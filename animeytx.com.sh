@@ -42,5 +42,5 @@ grep -oP 'href="https?://[^"]+"' "$html" | cut -d'"' -f2 | grep -E 'mega.nz|medi
 sort -u "$final" -o "$final"
 
 echo "✅ URLs filtradas y limpias para ${web}:"
-cat "$final"
+ cat "$final"
 
