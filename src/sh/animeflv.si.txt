@@ -1,0 +1,89 @@
+    <span class="BtnNw Dwnd BxSdw fa-download AAShwHdd-lnk" data-shwhdd="DwsldCn"><span>DESCARGAR</span> Episodio</span>
+                    <th>DESCARGAR</th>
+                    <td><a target="_blank" rel="nofollow" href="https://mega.nz/file/6w4QHQaS#ppSlWaR3JOP-f8sXPcDpOOIOsv635tTD9Qj9ZoKk5A4" class="Button Sm fa-download">DESCARGAR</a></td>
+                    <td><a target="_blank" rel="nofollow" href="https://www.mediafire.com/file/tk4te6mjjdx4kr0/Date_A_Live_II_-_09.rar/file" class="Button Sm fa-download">DESCARGAR</a></td>
+                    <td><a target="_blank" rel="nofollow" href="https://www.fireload.com/442010b669dbb2fc/Date_A_Live_II_-_09.rar" class="Button Sm fa-download">DESCARGAR</a></td>
+        var videos = {"japones subtitulos latino":[{"olimpo":1,"type":"1","url":"https:\/\/goodstream.one\/embed-bl0x3d6x3a6d.html","language":"japones subtitulos latino","server":"goodstream","title":"goodstream","quality":"HD","size":null,"ads":"0","allow_mobile":true},{"olimpo":1,"type":"1","url":"https:\/\/lamovie.link\/embed-lizbd75kgkhk.html","language":"japones subtitulos latino","server":"lamovie","title":"lamovie","quality":"HD","size":null,"ads":"0","allow_mobile":true},{"olimpo":1,"type":"1","url":"https:\/\/hlswish.com\/e\/sugr3tg7bo1s","language":"japones subtitulos latino","server":"hlswish","title":"hlswish","quality":"HD","size":null,"ads":"0","allow_mobile":true},{"olimpo":1,"type":"1","url":"https:\/\/voe.sx\/e\/icctohnrepzo","language":"japones subtitulos latino","server":"voe","title":"voe","quality":"HD","size":null,"ads":"0","allow_mobile":true},{"olimpo":1,"type":"1","url":"https:\/\/filemoon.sx\/e\/qqf6yy89iu5v","language":"japones subtitulos latino","server":"filemoon","title":"filemoon","quality":"HD","size":null,"ads":"0","allow_mobile":true}]}</script>
+            s.src = 'https://https-animeflv-net.disqus.com/embed.js';
+    <script>$(document).ready(function(e) {   $(".twtch .btn").click(function(){$(".twtch-bx").remove();$("#twitch-chat-embed").remove();});$(document).on('fullscreenchange', function(e){var urlSrc = $(e.target).attr('src');if(urlSrc.indexOf('twitch') === -1){$(".twtch-bx").remove();$("#twitch-chat-embed").remove();}});});
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,400italic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="https://animeflv.si/wp-content/themes/animeflv/assets/css/font-awesome.css" />
+    <link rel="stylesheet" type="text/css" href="https://animeflv.si/wp-content/themes/animeflv/assets/css/css.css?v=1.3.4" />
+    <link rel="stylesheet" type="text/css" href="https://animeflv.si/wp-content/themes/animeflv/assets/css/bootstrap.css" />
+    <script type="text/javascript" src="https://animeflv.si/wp-content/themes/animeflv/assets/js/modernizr.js"></script>
+    <script src="https://apis.google.com/js/platform.js"></script>
+	<!-- This site is optimized with the Yoast SEO plugin v24.0 - https://yoast.com/wordpress/plugins/seo/ -->
+	<link rel="canonical" href="https://www.animeflv.si/episodio/date-a-live-2x9/" />
+	<meta property="og:url" content="https://www.animeflv.si/episodio/date-a-live-2x9/" />
+	<meta property="og:image" content="https://animeflv.si/wp-content/uploads/2024/11/OUOHL2GA2JB3TBN7KQQVSTCKRU.png" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://www.animeflv.si/episodio/date-a-live-2x9/","url":"https://www.animeflv.si/episodio/date-a-live-2x9/","name":"Ver Online gratis | Animeflv","isPartOf":{"@id":"https://www.animeflv.si/#website"},"description":"Ver online gratis en español, sin registro. Disfruta de las mejores series y películas En Animeflv","breadcrumb":{"@id":"https://www.animeflv.si/episodio/date-a-live-2x9/#breadcrumb"},"inLanguage":"es"},{"@type":"BreadcrumbList","@id":"https://www.animeflv.si/episodio/date-a-live-2x9/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Inicio","item":"https://www.animeflv.si/"},{"@type":"ListItem","position":2,"name":"Date A Live 2x9"}]},{"@type":"WebSite","@id":"https://www.animeflv.si/#website","url":"https://www.animeflv.si/","name":"AnimeFLV - Ver Anime Online Gratis HD","description":"Animeflv tu destino para ver anime online en HD. Disfruta series y películas con subtítulos en español y actualizaciones diarias. ¡Explora ahora!","publisher":{"@id":"https://www.animeflv.si/#organization"},"alternateName":"AnimeFLV","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.animeflv.si/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"es"},{"@type":"Organization","@id":"https://www.animeflv.si/#organization","name":"AnimeFLV - Ver Anime Online Gratis HD","url":"https://www.animeflv.si/","logo":{"@type":"ImageObject","inLanguage":"es","@id":"https://www.animeflv.si/#/schema/logo/image/","url":"https://animeflv.si/wp-content/uploads/2022/11/unnamed-1.png","contentUrl":"https://animeflv.si/wp-content/uploads/2022/11/unnamed-1.png","width":512,"height":512,"caption":"AnimeFLV - Ver Anime Online Gratis HD"},"image":{"@id":"https://www.animeflv.si/#/schema/logo/image/"}}]}</script>
+<link rel="alternate" type="application/rss+xml" title="AnimeFLV - Ver Anime Online HD &raquo; Feed" href="https://animeflv.si/feed/" />
+<link rel="alternate" type="application/rss+xml" title="AnimeFLV - Ver Anime Online HD &raquo; RSS de los comentarios" href="https://animeflv.si/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="AnimeFLV - Ver Anime Online HD &raquo; Date A Live 2x9 Episode Feed" href="https://animeflv.si/episodio/date-a-live-2x9/feed/" />
+<link rel='stylesheet' id='wp-block-library-css' href='https://animeflv.si/wp-includes/css/dist/block-library/style.min.css?ver=6.8.2' media='all' />
+<link rel="https://api.w.org/" href="https://animeflv.si/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://animeflv.si/xmlrpc.php?rsd" />
+<link rel="icon" href="https://animeflv.si/wp-content/uploads/2022/11/cropped-unnamed-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://animeflv.si/wp-content/uploads/2022/11/cropped-unnamed-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://animeflv.si/wp-content/uploads/2022/11/cropped-unnamed-180x180.png" />
+<meta name="msapplication-TileImage" content="https://animeflv.si/wp-content/uploads/2022/11/cropped-unnamed-270x270.png" />
+        var assets_uri = 'https://animeflv.si/wp-content/themes/animeflv//assets/';
+        var home_url = 'https://animeflv.si';
+                        <a href="https://animeflv.si">
+                        	<img src="https://animeflv.si/wp-content/themes/animeflv/assets/img/logo.png" alt="AnimeFLV - Ver Anime Online HD" />
+                                <form action="https://animeflv.si/browse" method="get">
+                                <li><a href="https://animeflv.si">Inicio</a></li>
+                                <li><a href="https://animeflv.si/browse">Directorio Anime</a></li>
+                <a href="https://animeflv.si" title="Inicio AnimeFLV">Inicio</a>
+                <a href="https://animeflv.si/series/date-a-live/">Date A Live</a>
+        <a href="https://animeflv.si/series/date-a-live/" class="CapNvLs fa-th-list"></a>
+                    <td><a target="_blank" rel="nofollow" href="https://mega.nz/file/6w4QHQaS#ppSlWaR3JOP-f8sXPcDpOOIOsv635tTD9Qj9ZoKk5A4" class="Button Sm fa-download">DESCARGAR</a></td>
+                    <td><a target="_blank" rel="nofollow" href="https://www.mediafire.com/file/tk4te6mjjdx4kr0/Date_A_Live_II_-_09.rar/file" class="Button Sm fa-download">DESCARGAR</a></td>
+                    <td><a target="_blank" rel="nofollow" href="https://www.fireload.com/442010b669dbb2fc/Date_A_Live_II_-_09.rar" class="Button Sm fa-download">DESCARGAR</a></td>
+                this.page.url = 'https://animeflv.si/series/date-a-live/';
+            s.src = 'https://https-animeflv-net.disqus.com/embed.js';
+        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                            <a href="https://animeflv.si/series/one-piece/">
+                            	<a href="https://animeflv.si/series/one-piece/" target="_blank">One Piece</a>
+                            <a href="https://animeflv.si/series/attack-on-titan/">
+                            	<a href="https://animeflv.si/series/attack-on-titan/" target="_blank">Attack on Titan</a>
+                            <a href="https://animeflv.si/series/naruto-shippuden/">
+                            	<a href="https://animeflv.si/series/naruto-shippuden/" target="_blank">Naruto Shippuden</a>
+                            <a href="https://animeflv.si/series/my-hero-academia/">
+                            	<a href="https://animeflv.si/series/my-hero-academia/" target="_blank">My Hero Academia</a>
+                            <a href="https://animeflv.si/series/bleach/">
+                            	<a href="https://animeflv.si/series/bleach/" target="_blank">Bleach</a>
+                            <a href="https://animeflv.si/series/solo-leveling/">
+                            	<a href="https://animeflv.si/series/solo-leveling/" target="_blank">Solo Leveling</a>
+                            <a href="https://animeflv.si/series/date-a-live/">
+                            	<a href="https://animeflv.si/series/date-a-live/" target="_blank">Date A Live</a>
+                            <a href="https://animeflv.si/series/boruto-naruto-next-generations/">
+                            	<a href="https://animeflv.si/series/boruto-naruto-next-generations/" target="_blank">Boruto: Naruto Next Generations</a>
+                            <a href="https://animeflv.si/series/black-clover/">
+                            	<a href="https://animeflv.si/series/black-clover/" target="_blank">Black Clover</a>
+                            <a href="https://animeflv.si/series/tokyo-ghoul/">
+                            	<a href="https://animeflv.si/series/tokyo-ghoul/" target="_blank">Tokyo Ghoul</a>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+    <script type="text/javascript" src="https://animeflv.si/wp-content/themes/animeflv/assets/js/jquery.typewatch.min.js"></script>
+    <script type="text/javascript" src="https://animeflv.si/wp-content/themes/animeflv/assets/js/scrlbr.js"></script>
+    <script type="text/javascript" src="https://animeflv.si/wp-content/themes/animeflv/assets/js/jquery.bxslider.min.js"></script>
+    <script type="text/javascript" src="https://animeflv.si/wp-content/themes/animeflv/assets/js/percircle.min.js"></script>
+    <script type="text/javascript" src="https://animeflv.si/wp-content/themes/animeflv/assets/js/funciones.js?v=1.1.23"></script>
+    <script type="text/javascript" src="https://animeflv.si/wp-content/themes/animeflv/assets/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="https://animeflv.si/wp-content/themes/animeflv/assets/js/alertify.js"></script>
+        var videos = {"japones subtitulos latino":[{"olimpo":1,"type":"1","url":"https:\/\/goodstream.one\/embed-bl0x3d6x3a6d.html","language":"japones subtitulos latino","server":"goodstream","title":"goodstream","quality":"HD","size":null,"ads":"0","allow_mobile":true},{"olimpo":1,"type":"1","url":"https:\/\/lamovie.link\/embed-lizbd75kgkhk.html","language":"japones subtitulos latino","server":"lamovie","title":"lamovie","quality":"HD","size":null,"ads":"0","allow_mobile":true},{"olimpo":1,"type":"1","url":"https:\/\/hlswish.com\/e\/sugr3tg7bo1s","language":"japones subtitulos latino","server":"hlswish","title":"hlswish","quality":"HD","size":null,"ads":"0","allow_mobile":true},{"olimpo":1,"type":"1","url":"https:\/\/voe.sx\/e\/icctohnrepzo","language":"japones subtitulos latino","server":"voe","title":"voe","quality":"HD","size":null,"ads":"0","allow_mobile":true},{"olimpo":1,"type":"1","url":"https:\/\/filemoon.sx\/e\/qqf6yy89iu5v","language":"japones subtitulos latino","server":"filemoon","title":"filemoon","quality":"HD","size":null,"ads":"0","allow_mobile":true}]}</script>
+        <li role="presentation" data-id="3" data-toggle="tooltip" title="" class="active" data-original-title="voe"><a href="#option4">Opción <span>4</span></a></li>
+        var videos = {"japones subtitulos latino":[{"olimpo":1,"type":"1","url":"https:\/\/goodstream.one\/embed-bl0x3d6x3a6d.html","language":"japones subtitulos latino","server":"goodstream","title":"goodstream","quality":"HD","size":null,"ads":"0","allow_mobile":true},{"olimpo":1,"type":"1","url":"https:\/\/lamovie.link\/embed-lizbd75kgkhk.html","language":"japones subtitulos latino","server":"lamovie","title":"lamovie","quality":"HD","size":null,"ads":"0","allow_mobile":true},{"olimpo":1,"type":"1","url":"https:\/\/hlswish.com\/e\/sugr3tg7bo1s","language":"japones subtitulos latino","server":"hlswish","title":"hlswish","quality":"HD","size":null,"ads":"0","allow_mobile":true},{"olimpo":1,"type":"1","url":"https:\/\/voe.sx\/e\/icctohnrepzo","language":"japones subtitulos latino","server":"voe","title":"voe","quality":"HD","size":null,"ads":"0","allow_mobile":true},{"olimpo":1,"type":"1","url":"https:\/\/filemoon.sx\/e\/qqf6yy89iu5v","language":"japones subtitulos latino","server":"filemoon","title":"filemoon","quality":"HD","size":null,"ads":"0","allow_mobile":true}]}</script>
+        <li role="presentation" data-id="4" data-toggle="tooltip" title="" class="active" data-original-title="filemoon"><a href="#option5">Opción <span>5</span></a></li>
+	<meta property="og:image" content="https://animeflv.si/wp-content/uploads/2024/11/OUOHL2GA2JB3TBN7KQQVSTCKRU.png" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://www.animeflv.si/episodio/date-a-live-2x9/","url":"https://www.animeflv.si/episodio/date-a-live-2x9/","name":"Ver Online gratis | Animeflv","isPartOf":{"@id":"https://www.animeflv.si/#website"},"description":"Ver online gratis en español, sin registro. Disfruta de las mejores series y películas En Animeflv","breadcrumb":{"@id":"https://www.animeflv.si/episodio/date-a-live-2x9/#breadcrumb"},"inLanguage":"es"},{"@type":"BreadcrumbList","@id":"https://www.animeflv.si/episodio/date-a-live-2x9/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Inicio","item":"https://www.animeflv.si/"},{"@type":"ListItem","position":2,"name":"Date A Live 2x9"}]},{"@type":"WebSite","@id":"https://www.animeflv.si/#website","url":"https://www.animeflv.si/","name":"AnimeFLV - Ver Anime Online Gratis HD","description":"Animeflv tu destino para ver anime online en HD. Disfruta series y películas con subtítulos en español y actualizaciones diarias. ¡Explora ahora!","publisher":{"@id":"https://www.animeflv.si/#organization"},"alternateName":"AnimeFLV","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.animeflv.si/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"es"},{"@type":"Organization","@id":"https://www.animeflv.si/#organization","name":"AnimeFLV - Ver Anime Online Gratis HD","url":"https://www.animeflv.si/","logo":{"@type":"ImageObject","inLanguage":"es","@id":"https://www.animeflv.si/#/schema/logo/image/","url":"https://animeflv.si/wp-content/uploads/2022/11/unnamed-1.png","contentUrl":"https://animeflv.si/wp-content/uploads/2022/11/unnamed-1.png","width":512,"height":512,"caption":"AnimeFLV - Ver Anime Online Gratis HD"},"image":{"@id":"https://www.animeflv.si/#/schema/logo/image/"}}]}</script>
+<link rel="icon" href="https://animeflv.si/wp-content/uploads/2022/11/cropped-unnamed-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://animeflv.si/wp-content/uploads/2022/11/cropped-unnamed-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://animeflv.si/wp-content/uploads/2022/11/cropped-unnamed-180x180.png" />
+<meta name="msapplication-TileImage" content="https://animeflv.si/wp-content/uploads/2022/11/cropped-unnamed-270x270.png" />
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/animeflv\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+                    <td>mega</td>
+                    <td><a target="_blank" rel="nofollow" href="https://mega.nz/file/6w4QHQaS#ppSlWaR3JOP-f8sXPcDpOOIOsv635tTD9Qj9ZoKk5A4" class="Button Sm fa-download">DESCARGAR</a></td>
+                    <td>mediafire</td>
+                    <td><a target="_blank" rel="nofollow" href="https://www.mediafire.com/file/tk4te6mjjdx4kr0/Date_A_Live_II_-_09.rar/file" class="Button Sm fa-download">DESCARGAR</a></td>
+                    <td>fireload</td>
+                    <td><a target="_blank" rel="nofollow" href="https://www.fireload.com/442010b669dbb2fc/Date_A_Live_II_-_09.rar" class="Button Sm fa-download">DESCARGAR</a></td>
