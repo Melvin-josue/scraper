@@ -1,0 +1,102 @@
+curl https://api.jikan.moe/v4/anime?page=num -o jikanmoe
+cat jikanmoe | jq '.data[].titles[] | select(.type == "Default") | {type, title}'
+{
+  "type": "Default",
+  "title": "Cowboy Bebop"
+}
+{
+  "type": "Default",
+  "title": "Cowboy Bebop: Tengoku no Tobira"
+}
+{
+  "type": "Default",
+  "title": "Trigun"
+}
+{
+  "type": "Default",
+  "title": "Witch Hunter Robin"
+}
+{
+  "type": "Default",
+  "title": "Bouken Ou Beet"
+}
+{
+  "type": "Default",
+  "title": "Eyeshield 21"
+}
+{
+  "type": "Default",
+  "title": "Hachimitsu to Clover"
+}
+{
+  "type": "Default",
+  "title": "Hungry Heart: Wild Striker"
+}
+{
+  "type": "Default",
+  "title": "Initial D Fourth Stage"
+}
+{
+  "type": "Default",
+  "title": "Monster"
+}
+{
+  "type": "Default",
+  "title": "Naruto"
+}
+{
+  "type": "Default",
+  "title": "One Piece"
+}
+{
+  "type": "Default",
+  "title": "Tennis no Oujisama"
+}
+{
+  "type": "Default",
+  "title": "Ring ni Kakero 1"
+}
+{
+  "type": "Default",
+  "title": "School Rumble"
+}
+{
+  "type": "Default",
+  "title": "Sunabouzu"
+}
+{
+  "type": "Default",
+  "title": "Texhnolyze"
+}
+{
+  "type": "Default",
+  "title": "Trinity Blood"
+}
+{
+  "type": "Default",
+  "title": "Yakitate!! Japan"
+}
+{
+  "type": "Default",
+  "title": "Zipang"
+}
+{
+  "type": "Default",
+  "title": "Shinseiki Evangelion"
+}
+{
+  "type": "Default",
+  "title": "Shinseiki Evangelion Movie: Shi to Shinsei"
+}
+{
+  "type": "Default",
+  "title": "Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni"
+}
+{
+  "type": "Default",
+  "title": "Kenpuu Denki Berserk"
+}
+{
+  "type": "Default",
+  "title": "Koukaku Kidoutai"
+}
