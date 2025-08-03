@@ -22,7 +22,7 @@ headers = {
 }
 
 # Paso 1: Obtener links pastelinks desde animecompleto.com/toradora/
-url_inicial = "https://animecompleto.com/toradora/"
+url_inicial = "https://animecompleto.com/toradora"
 res = requests.get(url_inicial, headers=headers, impersonate="chrome")
 soup = BeautifulSoup(res.text, "html.parser")
 
